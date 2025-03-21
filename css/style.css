@@ -1,0 +1,70 @@
+:root {
+    --primary-color: #2c3e50;
+    --secondary-color: #3498db;
+}
+
+.navbar {
+    background: var(--primary-color) !important;
+    padding: 1rem 0;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.dashboard-stats {
+    background: white;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+}
+
+.stats-icon {
+    font-size: 2.5rem;
+    color: var(--secondary-color);
+}
+
+.card {
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    border: none;
+    border-radius: 10px;
+}
+
+.card-header {
+    background: var(--primary-color);
+    color: white;
+    border-radius: 10px 10px 0 0 !important;
+}
+
+.btn-primary {
+    background: var(--secondary-color);
+    border: none;
+}
+
+.sidebar {
+    background: var(--primary-color);
+    min-height: 100vh;
+    padding: 20px;
+}
+
+.sidebar-link {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    display: block;
+    margin: 5px 0;
+    border-radius: 5px;
+}
+
+.sidebar-link:hover {
+    background: var(--secondary-color);
+    color: white;
+}
+
+.card {
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    border: none;
+    border-radius: 10px;
+}
