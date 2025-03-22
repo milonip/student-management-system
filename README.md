@@ -10,6 +10,15 @@ A comprehensive student management system built with PHP and MySQL.
 - Exam Management
 - Marks Management
 
+## Visuals
+
+
+https://github.com/user-attachments/assets/6eb8b88d-9b39-4141-82dc-2bd3cc508081
+
+
+Full video:
+https://drive.google.com/file/d/1TI-8ycTJPQNyKZ4Ml6q91aV-W8NiQgdz/view?usp=sharing
+
 ## Installation
 
 1. Clone the repository
